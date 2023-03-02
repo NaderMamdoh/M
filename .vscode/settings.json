@@ -1,0 +1,22 @@
+{
+    "cSpell.ignoreWords": [
+        "motatawera",
+        "showsignin"
+    ],
+    "cSpell.words": [
+        "motatawera",
+        "mytoken"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:M}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "dart.enableSdkFormatter": false,
+    "dart.devToolsTheme": "dark",
+    "workbench.colorTheme": "Dracula",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
